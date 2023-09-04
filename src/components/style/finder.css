@@ -1,0 +1,22 @@
+#active{
+    /* background-color: rgb(133,199,231); */
+    background-color: rgb(226,234,236);
+    /* bg-[]  */
+    /* background-color: rgb(231, 145, 133); */
+    /* padding: 2rem 2rem; */
+    border-radius: 10px 10px 0px 0px;
+}
+#nactive{
+    background-color: #e6cece;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#showtab{
+    display: block;   
+}
+#hid{
+    display: none;
+}
+#navcol{
+    background-color: lightcoral;
+}
